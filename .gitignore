@@ -1,0 +1,14 @@
+pom.xml
+*jar
+/lib/
+/classes/
+/checkouts/
+.lein-failures
+.lein-deps-sum
+/resources/assets
+/resources/asset-cache
+/test/fixtures/asset-cache
+/.rvmrc
+/.lein-repl-history
+/target/
+.nrepl*
