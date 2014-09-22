@@ -8,7 +8,7 @@ Includes a vendored version of sass 3.4.5.
 
 In your project.clj file
 
-    [dieter/sass "0.0.1"]
+[![Clojars Project](http://clojars.org/org.clojars.fasterthanlime/dieter-sass/latest-version.svg)](http://clojars.org/org.clojars.fasterthanlime/dieter-sass)
 
 Insert it into your ring middleware stack
 
